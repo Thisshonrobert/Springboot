@@ -9,8 +9,7 @@ import com.codewithmosh.store.mappers.CartMapper;
 import com.codewithmosh.store.repositories.CartRepository;
 import com.codewithmosh.store.repositories.ProductRepository;
 import lombok.AllArgsConstructor;
-import org.antlr.v4.runtime.misc.LogManager;
-import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
+
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;
